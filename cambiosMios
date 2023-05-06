@@ -1,0 +1,7 @@
+He incluido el tipo de operación a las operaciones buque porque para mostrar el resumen era necesario saber el
+tipo de operación. La persona que hizo el documento seguramente quería ponerlo pero se le olvidó.
+
+A parte, he añadido algunos getters y setters que no se incluyeron.
+
+Por último, no se indica como se deben incluir ni buques ni puertos (tampoco lo ponía en el ejercicio) asi que
+he decidido en el main() poner 1 barco y 2 puertos para poder probarlo.
