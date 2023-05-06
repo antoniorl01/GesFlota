@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/gesflota" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gesflota-uned" vcs="Git" />
   </component>
 </project>
